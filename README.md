@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Arshan 👋
+I'm a 13-year-old beginner coder learning Python, AI, and machine learning.  
+I love building small projects, learning new things, and improving every day.
 
-<!--
-**Arshan339/Arshan339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I'm Learning
+- Python basics
+- Problem-solving
+- Git & GitHub
+- Beginning machine learning concepts
 
-Here are some ideas to get you started:
+## 💻 Projects I'm Working On
+- Tic Tac Toe in Python
+- Calculator App
+- Number Guessing Game
+- More Python projects coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build AI projects by age 15  
+- Create a full portfolio website  
+- Become an AI/Machine Learning engineer in the future
+
+## 📫 Contact
+(my gmail= arshan3833@gmail.com)
